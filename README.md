@@ -4,7 +4,8 @@ CTF walkthroughs, mainly from VulnHub but maybe HackTheBox if I get lucky.
 > Challenge - Author
 
 ## Beginner CTF Challenges
- - [Toppo] - [h4d3sw0rm]
+ - [Toppo]  - [h4d3sw0rm]
+ - [Quaoar] - [Viper]
  
 ## Intermediate CTF Challenges
  -
@@ -13,4 +14,6 @@ CTF walkthroughs, mainly from VulnHub but maybe HackTheBox if I get lucky.
  - 
  
  [Toppo]: <https://github.com/kieran-walker-0/ctf-walkthroughs/blob/master/Beginner-Toppo.md>
+ [Quaoar]: <https://github.com/kieran-walker-0/ctf-walkthroughs/blob/master/Beginner-Quaoar.md>
  [h4d3sw0rm]: <https://twitter.com/h4d3sw0rm>
+ [Viper]: <https://twitter.com/ViperBlackSkull>
