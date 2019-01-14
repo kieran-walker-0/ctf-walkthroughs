@@ -131,7 +131,7 @@ Uniscan:
 ```
 The above output only comprises of the useful details, I would recommend using tools like Nikto and Dirb for a better scan of web applications.
 However, we can see `robots.txt` has an entry regarding `/wordpress/`.
-With this in mind, I can also make the assumption that directories like /wp-content/ and /wp-login/ are present.
+With this in mind, I can also make the assumption that directories like `/wp-content/` and `/wp-login/` are present.
 
 Now I can be sure that WordPress is running on the target, I can use WPscan to grab more specific info. I didn't have to look into the vulnerable plugins that were mentioned in the output, so I decided to omit them from this walkthrough. WPscan enumerated the users for me:
 ```
